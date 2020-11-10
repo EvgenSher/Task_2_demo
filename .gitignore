@@ -1,0 +1,14 @@
+# The file is ignored according to the task
+Thumbs.db
+
+# Ignore files in the tmp directory, which is in the same directory as .gitignor
+/tmp/
+
+# The file is ignored according to the task
+.DS_Store
+
+# The file is ignored according to the task with mask
+*old
+
+# The file is ignored according to the task with mask
+*backup
